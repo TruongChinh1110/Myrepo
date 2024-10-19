@@ -1,1 +1,2 @@
 Day la noi dung cua user1
+Đây là nội dung cua user1.txt of branch user1
